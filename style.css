@@ -1,0 +1,373 @@
+boby {
+    margin: 0;
+    padding: 0;
+    font-family: "sofia pro blact", Helvetica Neue, Helvetica, Arial ;
+    height: 1000vh;
+}
+.nav  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    text-transform: uppercase;
+    background-color: #0065c3;
+    padding: 10px;
+    color: white;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    position: fixed;
+    width: 99%;
+
+}
+.nav-left {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+ 
+}
+.nav-item {
+    margin-left: 50px;
+    cursor: pointer;
+}
+.nav-item:hover {
+  background-color: #ffffff;
+  color: black;
+}
+.nav-right .nav-item {
+  border-radius: 30px;
+  border: 2px solid white;
+  padding: 5px 25px;
+}
+.line6 {
+  display: flex;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg');
+  /* background-color: center; */
+
+}
+.padding-left {
+  /* display: flex; */
+  margin-left: -500px;
+  margin-top: px;
+}
+.line6 ::before {
+  content: "";
+  position: absolute;
+  /* background-color: black; */
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+
+}
+.prover {
+  width: 65vw !important;
+  background-image: url;
+  background-size: auto 100%;
+  background-position: right -76px bottom;
+  height: 109%;
+  max-height: unset;
+  margin-top: -70px;
+}
+.right1 {
+    position: absolute;
+    right: 781px;
+    top: 126px;
+}
+.zero10 {
+  color: rgb(8, 7, 7);
+  width: 494px;
+  margin-top: 62px;
+  height: 389px;
+  margin-left: -136px;
+
+}
+.top1 {
+  margin-top: 414px;
+    
+  margin-right: 441px;
+  margin-left: -420px;
+  width: 352px;
+
+}
+.pro {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.pro-item img {
+  max-width: 228%;
+  padding: 20px;
+  margin-left: 207%;
+  margin-top: 234px;
+
+}
+.pro-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 30%;
+  
+}
+.pro-item-column {
+  flex-direction: column;
+}
+.pro-text {
+  color: white;
+  font-size: 23px;
+  text-align: center;
+  margin-top: -7px;
+  margin-right: 63px;
+
+}
+.pro-button {
+  color: white;
+  border: 2px solid white;
+  border-radius: 19px ;
+  padding: 6px 39px;
+  width: 104px;
+  margin-top: -1px;
+  margin-left: 235px;
+
+}
+.pro-button:hover {
+  background-color: #ffffff;
+  color: black;
+}
+.pro-more  {
+  display: flex;
+  }
+  .pro-more  {
+    background-image: url('https://www.pepsi.com/en-us/uploads/images/apple-music/background.png');
+  }
+.pro-p  {
+  margin-left: 111px;
+
+}
+
+.pad {
+  display: flex;
+}
+.pad ::before {
+  content: "";
+  position: absolute;
+  /* background-color: #0065c3; */
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+}
+
+.father3 {
+display: flex;
+background-color: #0065c3;
+flex-direction: column;
+justify-content: space-evenly;
+}
+.code {
+  margin-left: 26px;
+  margin-top: 63px;
+}
+.and {
+  width: 40%;
+  text-align: center;
+  margin-left: 26px;
+  background-color: lightblue;
+  width: 94%;
+  margin-left: 27px;
+  margin-top: -4px;
+  height: 40px;
+  display: grid;
+  align-items: center;
+}
+#tex {
+  backaround-color: white;
+}
+.lli {
+  margin-left: 26px;
+  margin-top: 19px;
+}
+.mn {
+  width: 40%;
+  text-align: center;
+  margin-left: 26px;
+  width: 94%;
+  margin-left: 27px;
+  margin-top: -4px;
+  height: 40px;
+  background-color:  lightblue;
+  display: grid;
+  align-items: center;
+}
+#oil {
+  background-color: ;
+}
+.iron {
+  display: flex;
+}
+.lon {
+  position: absolute;
+  height: 79%;
+  width: 69%;
+  margin-left: 0px;
+  height: 697px;
+  background-color: #0065c3;
+}
+.ln {
+  position: absolute;
+  width: 598px;
+  top: 280%;
+  margin-left: 450px; 
+}
+.are {
+  display: flex;
+  background-color: darkblue;
+}
+.with {
+  width: 100%;
+  margin-top: 134px;
+
+}
+.better {
+  width: 480px;
+  position: absolute;
+  margin-top: 75px;
+  margin-left: -1483px;
+
+
+}
+.ww {
+  width: 62%;
+  position: absolute;
+  margin-left: -62%;
+  margin-top: 67px;
+
+}
+.a {
+  display: flex;
+  background-image: url(https://www.pepsi.com/en-us/uploads/images/twil-bg-mb.jpg);
+
+}
+.b {
+  display: block;
+  max-width: 50%;
+  height: auto ;
+  margin-top: 4em
+}
+.c {
+  margin-top: 190px;
+  
+}
+.d {
+  display: flex;
+  background-image: url(https://www.pepsi.com/en-us/uploads/04_Generation_BG_D_2.png?mtime=20181217151706);
+  width: 100%;
+  height: 464px;
+  justify-content: flex-start;
+  align-items: center; 
+  position: relative;
+  padding: 100%;
+  margin: 0;
+  padding: 0;
+  justify-content: space-around;
+  align-items: center;
+}
+.promotion__hero-image {
+  margin-left: -100px;
+  width: 100%;
+}
+.e {
+  /* width: 60%;
+  margin-top: 68px;
+  margin-left: 36%; */
+
+  position: absolute;
+  top: 100px;
+  left: 60%;
+  
+  
+}
+.f {
+  /* margin-left: 45%;   */
+  width: 88%;
+  height: 300px;
+}
+.g {
+  display: block;
+  font-size: 3.75rem;
+  line-height: 1em;
+  margin-top: -221px;
+  margin-right: -301px;
+  font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+
+
+}
+.h {
+   color: #ffffff;
+  display: block;
+  font-size: 3.75rem;
+  line-height: 1em;
+  font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif; 
+  /*  */
+}
+.i {
+  color: #ffffff;
+  display: block;
+  font-size: 3.75rem;
+  line-height: 1em;
+  font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif; 
+  /* margin-right: -34%; */
+}
+.button {
+  color: white;
+  border: 2px solid white;
+  border-radius: 36px ;
+  padding: 4px 23px;
+  width: 130px;
+  /* margin-top: 10%;
+  margin-right: 75%; */
+}
+.child1 {
+  /* display: flex; */
+  /* flex-direction: column ; */
+  margin-top: 230px;
+
+  
+}
+#text {
+  color: #ffffff;
+  display: block;
+  /* font-size: 3.75rem; */
+  line-height: 1em;
+  font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.3em;
+  width: 40%;
+
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+.x {
+  display: block;
+
+}
+.z {
+  display: block;
+  margin: -90px;
+}
+.h1 {
+  display: flex;
+  align-items: baseline;
+}
+.h2 {
+  align-self: stretch;
+}
+.padd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -390px;
+}
